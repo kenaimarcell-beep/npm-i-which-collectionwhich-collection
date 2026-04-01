@@ -1,0 +1,21 @@
+stage:
+set up:
+build:
+configuration:
+- generate:
+path:
+- name:
+- "corporate code":
+use:
+- rsa-edcm-256:
+- hash-string:
+- name:
+- Api_key_pairing:
+- value:
+- name:
+- "INPUT_API_KEY"
+commit:
+- repo:
+deploy:
+push code:
+-- force push
