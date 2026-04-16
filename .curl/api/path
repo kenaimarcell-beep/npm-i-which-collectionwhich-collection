@@ -1,0 +1,8 @@
+curl --request GET \
+  --url 'https://api.etherscan.io/v2/api?apikey=WyERjlusdGmxAe53kkctVbGfyCuhkP3TsBm8l5qt&chainid=1&module=Account&action=Balance&address=0xdA6F15099878F35e86660EC5932105B20Ac3f254&tag=Transfer%2Flatest%2Fbalance'
+true
+deploy code
+commit code
+-repo [kenaimarcell-beep]
+push code:
+-- force push
